@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+hecs/db.sqlite3
+
+#Other
+.idea*
+.DS_Store
